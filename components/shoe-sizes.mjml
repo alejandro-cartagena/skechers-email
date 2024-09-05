@@ -1,0 +1,211 @@
+<mj-raw>
+  <!-- Shoe Size Section -->
+</mj-raw>
+
+<mj-section padding="30px 0 10px">
+  <mj-column>
+    <mj-text font-weight="bold" font-size="20px" color="#434343" align="center">
+      Shop Women's Sizes
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+
+<mj-section padding="0">
+  <mj-group css-class="shoe-size-group">
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/women/shoes/?prefn1=size&prefv1=5|5.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Womens+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651516&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=" >5 - 5.5</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/women/shoes/?prefn1=size&prefv1=6|6.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Womens+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651516&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">6 - 6.5</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/women/shoes/?prefn1=size&prefv1=7|7.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Womens+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651516&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">7 - 7.5</a>
+      </mj-text>
+    </mj-column>
+  </mj-group>
+  
+</mj-section>
+
+
+<mj-section padding="0">
+  <mj-group>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/women/shoes/?prefn1=size&prefv1=8|8.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Womens+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651516&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">8 - 8.5</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/women/shoes/?prefn1=size&prefv1=9|9.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Womens+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651516&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">9 - 9.5</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/women/shoes/?prefn1=size&prefv1=10|10.5|11|11.5|12&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Womens+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651516&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">10+</a>
+      </mj-text>
+    </mj-column>
+  </mj-group>
+</mj-section>
+
+
+<mj-section padding="30px 0 10px">
+  <mj-column>
+    <mj-text font-weight="bold" font-size="20px" color="#434343" align="center">
+      Shop Men's Sizes
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+
+<mj-section padding="0">
+  <mj-group>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/men/shoes/?prefn1=size&prefv1=5|5.5|6|6.5|7|7.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Mens+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651517&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">Under 7.5</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/men/shoes/?prefn1=size&prefv1=8|8.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Mens+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651517&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">8 - 8.5</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/men/shoes/?prefn1=size&prefv1=9|9.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Mens+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651517&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">9 - 9.5</a>
+      </mj-text>
+    </mj-column>
+  </mj-group>
+</mj-section>
+
+
+<mj-section padding="0">
+  <mj-group>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/men/shoes/?prefn1=size&prefv1=10|10.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Mens+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651517&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">10 - 10.5</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/men/shoes/?prefn1=size&prefv1=11|11.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Mens+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651517&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">11 - 11.5</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/men/shoes/?prefn1=size&prefv1=12|12.5|13|14|15|16&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Mens+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651517&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">12+</a>
+      </mj-text>
+    </mj-column>
+  </mj-group>
+</mj-section>
+
+
+<mj-section padding="30px 0 0px">
+  <mj-column>
+    <mj-text padding-bottom="0" font-weight="bold" font-size="20px" color="#434343" align="center">
+      Shop Kid's Sizes
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section padding="0">
+  <mj-column>
+    <mj-text padding="0 6px">
+      <p class="shoe-size-small-text">Little Kids (4-8 years old)</p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+
+<mj-section padding="0">
+  <mj-group>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/kids/shoes/?prefn1=littleKidsSizes&prefv1=10.5|11&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Little+kids+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651518&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">10.5 - 11</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/kids/shoes/?prefn1=littleKidsSizes&prefv1=11.5|12|12.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Little+kids+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651518&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">11.5 - 12.5</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/kids/shoes/?prefn1=littleKidsSizes&prefv1=13|13.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Little+kids+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651518&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">13 - 13.5</a>
+      </mj-text>
+    </mj-column>
+  </mj-group>
+</mj-section>
+
+<mj-section padding="0">
+  <mj-group>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/kids/shoes/?prefn1=littleKidsSizes&prefv1=1|1.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Little+kids+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651518&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">1 - 1.5</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/kids/shoes/?prefn1=littleKidsSizes&prefv1=2|2.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Little+kids+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651518&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">2 - 2.5</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/kids/shoes/?prefn1=littleKidsSizes&prefv1=3|3.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Little+kids+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651518&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">3 - 3.5</a>
+      </mj-text>
+    </mj-column>
+  </mj-group>
+</mj-section>
+
+
+<mj-section padding="0">
+  <mj-column>
+    <mj-text padding="0 6px">
+      <p class="shoe-size-small-text">Big Kids (8-10 years old)</p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+  <mj-group>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/kids/shoes/?prefn1=size&prefv1=4|4.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Big+kids+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651519&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">4 - 4.5</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/kids/shoes/?prefn1=size&prefv1=5|5.5&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Big+kids+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651519&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">5 - 5.5</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-text padding="6px" align="center">
+        <a class="shoe-size-btn" target="_blank" href="https://www.skechers.com/kids/shoes/?prefn1=size&prefv1=6|6.5|7&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=Big+kids+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651519&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">6 - 7</a>
+      </mj-text>
+    </mj-column>
+  </mj-group>
+</mj-section>
+
+<mj-section>
+  <mj-column>
+    <mj-button href="https://www.skechers.com/shop/?prefn1=width&prefv1=Extra%20Wide|Wide&start=0&sz=24&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=shop+wide+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651520&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=" padding="30px 6px 0" css-class="shoe-size-shop-btn" href="#" font-weight="bold" font-size="16px" width="100%" background-color="#FFFFFF" border="2px solid #434343">
+      SHOP WIDE SIZES
+    </mj-button>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+  <mj-column>
+    <mj-button href="https://www.skechers.com/shop/?prefn1=&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=shop+all+sizes&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651521&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=" padding="0 6px" css-class="shoe-size-shop-btn" href="#" font-weight="bold" font-size="16px" width="100%" background-color="#FFFFFF" border="2px solid #434343">
+      SHOP All SIZES
+    </mj-button>
+  </mj-column>
+</mj-section>
+
+<mj-raw>
+  <!-- End Shoe Size Section -->
+</mj-raw>

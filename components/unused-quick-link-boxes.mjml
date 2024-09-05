@@ -1,0 +1,92 @@
+<mj-section padding="0" css-class="quick-links-boxes">
+  <mj-group>
+    <mj-column padding="10px 0" css-class="quick-links-left-box" width="50%">
+      <mj-text align="center">
+        <p
+          style="
+            color: #434343;
+            text-transform: uppercase;
+            font-size: 20px;
+            font-weight: bold;
+          "
+        >
+          Download the app
+        </p>
+      </mj-text>
+      <mj-table padding-top="0">
+        <tr align="center">
+          <td><img style="width: 100%; max-width: 100px; min-width: 75px" src="https://i.postimg.cc/XqN50G8z/play-store.png" /></td>
+        </tr>
+        <tr align="center">
+          <td><img style="width: 100%; max-width: 100px; min-width: 75px" src="https://i.postimg.cc/bJgGLYhH/app-store.png" /></td>
+        </tr>
+      </mj-table>
+    </mj-column>
+    <mj-column padding="10px 0" width="50%">
+      <mj-text align="center">
+        <p
+          style="
+            color: #434343;
+            text-transform: uppercase;
+            font-size: 20px;
+            font-weight: bold;
+          "
+        >
+          Curbside Pickup
+        </p>
+      </mj-text>
+      <mj-image
+        padding-top="0"
+        width="70px"
+        src="./assets/phone-car.png"
+        alt=""
+      />
+    </mj-column>
+  </mj-group>
+</mj-section>
+
+<mj-section css-class="quick-links-boxes" padding="0">
+  <mj-group>
+    <mj-column css-class="quick-links-left-box" padding="10px 0" width="50%">
+      <mj-text align="center">
+        <p
+          style="
+            color: #434343;
+            text-transform: uppercase;
+            font-size: 20px;
+            font-weight: bold;
+          "
+        >
+          Shop now pay later
+        </p>
+      </mj-text>
+      <mj-image
+        padding-top="0"
+        width="120px"
+        src="https://i.postimg.cc/LX2YzYr8/after-pay.png"
+        alt=""
+      />
+    </mj-column>
+    <mj-column padding="10px 0" width="50%">
+      <mj-text align="center">
+        <p
+          style="
+            color: #434343;
+            text-transform: uppercase;
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 0;
+          "
+        >
+          Find a store
+        </p>
+      </mj-text>
+      <mj-image
+        padding-top="0"
+        width="40px"
+        src="https://i.postimg.cc/TPmgjX1C/map-location.png"
+        alt=""
+      />
+    </mj-column>
+  </mj-group>
+</mj-section>

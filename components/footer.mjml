@@ -1,0 +1,37 @@
+<mj-raw>
+  <!-- Footer -->
+</mj-raw>
+
+<mj-section padding-top="20px" padding="0" css-class="quick-links-boxes">
+  <mj-column width="100%">
+    <mj-text align="center">
+      <p style="font-size: 11px; line-height: 15px"><b>SKECHERS PLUS MEMBERS TAKE 20% OFF - ONLINE ONLY</b> <br>
+        *Offer valid 9/4/24 - 9/8/24 on select regular priced items at www.Skechers.com. Online only and not valid at Skechers stores or at other stores and websites carrying Skechers products. Must be a Skechers Plus Member to qualify. Use code: MEGASAVE at checkout. Offer excludes sale styles, John Deere, select accessories, prior purchases, test styles, gift cards, and applicable taxes. Additional exclusions may apply. Not redeemable for cash. Valid in the U.S. only. Skechers reserves the right to modify or cancel this promotion at any time without notice.
+      </p>
+    </mj-text>
+
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+  <mj-column width="100%">
+    <mj-text align="center">
+      <a target="_blank" class="footer-links" href="https://www.skechers.com/login/?REFID=PRO_SITEWIDE_SALE_09042024&SubKey=8017061647&a=8017061647&j=136394&jb=3321&list=25_HTML&mid=100007688&sfmc_sub=60264320&src=Q3MEGASALE2024&u=7651537&utm_campaign=PRO_SITEWIDE_SALE_09042024&utm_content=Footer&utm_medium=email&utm_source=mktg&utm_term=Account">Account</a> | <a target="_blank" class="footer-links" href="https://www.skechers.com/help-center.html?src=Q3MEGASALE2024&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Footer&utm_term=Customer+Service&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651538&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">Customer Service</a> | <a target="_blank" class="footer-links" href="https://www.skechers.com/help-center.html?url=HelpCenter/s/article/Privacy-Policy&promo_id=template&src=Q3MEGASALE2024&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Footer&utm_term=Privacy+Policy&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651539&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">Privacy Policy</a> | <a target="_blank" class="footer-links" href="https://www.skechers.com/help-center.html?url=HelpCenter/s/article/Terms-and-Conditions">Terms of Use</a> | <a target="_blank" class="footer-links" href="https://www.skechers.com/Preference_Center.html?qs=538e718204ddf52ccefaad7d73c88abe967eaa5f2f7b50332b6a3fc3c055cd67296c3ea0cc654eecb60f7aaf0bde0772a8cab002432cd17aad2cf893c6ab64c442f4f9185dc36f5fd43a43de438c2ec0&utm_source=mktg&utm_medium=email&utm_kxconfid=so3yexmpm&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Footer&utm_term=PreferenceCenter">Unsubscribe</a>
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text padding="0" align="center">
+      <p class="footer-bottom-text">Add no-reply@emails.skechers.com to your email address book and never miss a message.</p>
+    </mj-text>
+  </mj-column>
+
+  <mj-column width="100%">
+    <mj-text padding="0" align="center">
+      <p style="" class="footer-bottom-text">SKECHERS USA, Inc <br>Customer Service 228 Manhattan Beach Blvd., Manhattan Beach, CA 90266</p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-raw>
+  <!-- End Footer -->
+</mj-raw>

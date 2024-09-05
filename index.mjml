@@ -1,0 +1,121 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+
+      @media only screen and (max-width: 480px) {
+        .stack-on-mobile-td {
+          display: block;
+          width: 100% !important;
+          padding-bottom: 10px;
+        }
+
+      }
+
+      .shoe-size-btn:hover {
+        border: 1px solid #434343 !important;
+        color: #434343 !important;
+      }
+
+        .shoe-size-shop-btn a:hover {
+        background-color: #434343 !important;
+        color: #FFFFFF !important;
+      }
+
+      .additional-styles-link:hover {
+        color: #434343;
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .create-account-link {
+        color: #FFFFFF;
+        font-weight: bold;
+      }
+
+      .shoe-size-btn {
+        font-weight: bold;
+        font-size: 15px;
+        color: #434343;
+        text-decoration: none;
+        border: 1px solid #dedede;
+        display: block;
+        padding: 15px 0;
+      }
+
+      .shoe-size-small-text {
+        margin-bottom: 0;
+        font-size: 16px;
+        color: #757575;
+      }
+
+      .shoe-size-shop-btn a {
+        color: #434343 !important;
+        display: block !important;
+      }
+
+      .additional-styles-box {
+        border-bottom: 4px solid #e8e8e8;
+        padding: 15px 5px 11px 5px;
+      }
+
+      .additional-styles-link {
+        text-transform: uppercase;
+        text-decoration:
+          none;
+        color: #434343;
+        font-size: 24px;
+        font-weight: bold;
+      }
+
+      .quick-links-boxes {
+        border-bottom: 4px solid #e8e8e8;
+      }
+
+      .quick-links-left-box {
+        border-right:
+          4px solid #e8e8e8;
+      }
+
+      .quick-links-text {
+        color: #434343;
+        text-transform:
+          uppercase;
+        font-size: 20px;
+        font-weight: bold
+      }
+
+      .social-icon-size {
+        max-width: 150px;
+      }
+
+      .footer-links {
+        font-size: 14px;
+        color: #434343;
+        text-decoration: none;
+        padding: 0 5px;
+        line-height: 18px
+      }
+
+      .footer-bottom-text {
+        font-size: 14px;
+        color: #434343;
+        line-height: 18px
+      }
+
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#DEDEDE">
+    <mj-wrapper background-color="#FFFFFF">
+      <mj-include path="./components/header.mjml" />
+      <mj-include path="./components/middle-section.mjml" />
+      <mj-include path="./components/shoe-sizes.mjml" />
+      <mj-include path="./components/create-account.mjml" />
+      <mj-include path="./components/shop-additional.mjml" />
+      <mj-include path="./components/quick-link-boxes.mjml" />
+      <mj-include path="./components/footer.mjml" />
+    </mj-wrapper>
+  </mj-body>
+</mjml>

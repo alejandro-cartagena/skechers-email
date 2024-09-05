@@ -1,0 +1,99 @@
+<mj-raw>
+  <!-- Quick Link Boxes -->
+</mj-raw>
+<mj-section css-class="quick-links-boxes">
+  <mj-group>
+    <mj-column width="20%">
+      <mj-image
+        href="https://skechers.attn.tv/p/pUK/joinsms?utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Footer&utm_term=Texting&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651528&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc="
+        padding-right="0"
+        align="right"
+        width="31px"
+        height="37px"
+        src="https://i.postimg.cc/fyH9WzqT/texting-icon.png"
+        alt=""
+      />
+    </mj-column>
+    <mj-column width="80%">
+      <mj-text padding-left="20px" align="left">
+        <a
+          target="_blank"
+          style="
+            display: block;
+            text-decoration: none;
+            color: #434343;
+            text-transform: uppercase;
+            font-size: 20px;
+            font-weight: bold;
+          "
+          href="https://skechers.attn.tv/p/pUK/joinsms?utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Footer&utm_term=Texting&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651528&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc="
+          >Let's get texting</a
+        >
+        <a
+          target="_blank"
+          style="
+            display: block;
+            text-decoration: none;
+            color: #434343;
+            font-size: 18px;
+          "
+          href="https://skechers.attn.tv/p/pUK/joinsms?utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Footer&utm_term=Texting&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651528&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc="
+          >Text <span style="font-weight: bold">SKECHERS</span> to
+          <span style="font-weight: bold">83828</span> for exclusive offers!
+        </a>
+      </mj-text>
+    </mj-column>
+  </mj-group>
+</mj-section>
+
+
+<mj-section
+  padding-top="40px"
+  padding-bottom="30px"
+  css-class="quick-links-boxes"
+>
+  <mj-column width="100%">
+    <mj-text align="center">
+      <p class="quick-links-text">Follow Us</p>
+    </mj-text>
+  </mj-column>
+  <mj-group css-class="social-icon-size" width="100%">
+    <mj-column css-class="social-icon">
+      <mj-image
+        href="https://www.instagram.com/skechers/?utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Footer&utm_term=Instagram&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651534&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc="
+        padding="0"
+        align="center"
+        width="25px"
+        height="25px"
+        src="https://i.postimg.cc/tCS3p58t/insta.png"
+        alt="Instagram icon"
+      />
+    </mj-column>
+    <mj-column css-class="social-icon">
+      <mj-image
+        href="https://www.facebook.com/SKECHERS?utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Footer&utm_term=Facebook&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651535&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc="
+        padding="0"
+        align="center"
+        width="25px"
+        height="25px"
+        src="https://i.postimg.cc/cCJvzq1q/facebook.png"
+        alt="Facebook Icon"
+      />
+    </mj-column>
+    <mj-column css-class="social-icon">
+      <mj-image
+        href="https://www.youtube.com/user/SKECHERS"
+        align="center"
+        padding="0"
+        width="25px"
+        height="25px"
+        src="https://i.postimg.cc/FKjkdgC6/youtube.png"
+        alt="Youtube Icon"
+      />
+    </mj-column>
+  </mj-group>
+</mj-section>
+
+<mj-raw>
+  <!-- End Quick Link Boxes -->
+</mj-raw>

@@ -1,0 +1,46 @@
+<mj-raw>
+  <!-- Additional Styles Section -->
+</mj-raw>
+<mj-section padding-bottom="0" padding-top="30px">
+  <mj-column background-color="#e8e8e8">
+    <mj-text padding="20px" text-transform="uppercase" align="center" color="#434343" font-size="20px">
+      Shop Additional Styles:
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+  <mj-column css-class="additional-styles-box" width="100%">
+    <mj-text align="center">
+      <a class="additional-styles-link" target="_blank" href="https://www.skechers.com/women/shoes/?src=Q3MEGASALE2024&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Footer&utm_term=Women&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651522&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">Women</a>
+    </mj-text>
+  </mj-column>
+  <mj-column css-class="additional-styles-box" width="100%">
+    <mj-text align="center">
+      <a class="additional-styles-link" target="_blank" href="https://www.skechers.com/men/shoes/?src=Q3MEGASALE2024&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Footer&utm_term=Men&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651523&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">Men</a>
+    </mj-text>
+  </mj-column>
+  <mj-column css-class="additional-styles-box" width="100%">
+    <mj-text align="center">
+      <a class="additional-styles-link" target="_blank" href="https://www.skechers.com/kids/shoes/?src=Q3MEGASALE2024&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Footer&utm_term=Kids&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651524&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">Kids</a>
+    </mj-text>
+  </mj-column>
+  <mj-column css-class="additional-styles-box" width="100%">
+    <mj-text align="center">
+      <a class="additional-styles-link" target="_blank" href="https://www.skechers.com/clothing-accessories/?src=Q3MEGASALE2024&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Footer&utm_term=Clothing&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651525&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">Clothing</a>
+    </mj-text>
+  </mj-column>
+  <mj-column css-class="additional-styles-box" width="100%">
+    <mj-text align="center">
+      <a class="additional-styles-link" target="_blank" href="https://www.skechers.com/new-arrivals/?src=Q3MEGASALE2024&utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Footer&utm_term=New+Arrivals&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651526&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc=">New Arrivals</a>
+    </mj-text>
+  </mj-column>
+  <mj-column css-class="additional-styles-box" width="100%">
+    <mj-text align="center">
+      <a class="additional-styles-link" target="_blank" href="https://www.skechers.com/sale/?REFID=PRO_SITEWIDE_SALE_09042024&SubKey=8017061647&a=8017061647&j=136394&jb=3321&list=25_HTML&mid=100007688&sfmc_sub=60264320&src=Q3MEGASALE2024&u=7651527&utm_campaign=PRO_SITEWIDE_SALE_09042024&utm_content=Footer&utm_medium=email&utm_source=mktg&utm_term=Sale">Sale</a>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-raw>
+  <!-- End Additional Styles Section -->
+</mj-raw>

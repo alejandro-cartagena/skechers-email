@@ -1,0 +1,39 @@
+<mj-raw>
+  <!-- Create Account Section -->
+</mj-raw>
+<mj-section padding-bottom="0">
+  <mj-column padding="10px 0" background-color="#228d93">
+    <mj-image
+      href="https://www.skechers.com/login/?utm_source=mktg&utm_medium=email&utm_campaign=PRO_SITEWIDE_SALE_09042024&REFID=PRO_SITEWIDE_SALE_09042024&utm_content=Body&utm_term=https%3a%2f%2fwww.skechers.com%2flogin%2f&SubKey=8017061647&j=136394&sfmc_sub=60264320&list=25_HTML&u=7651507&mid=100007688&jb=3321&a=8017061647&sfcc_url=&code_desc="
+      width="250px"
+      src="https://i.postimg.cc/sX4W89pW/sketchers-plus-logo.png"
+      alt=""
+    />
+  </mj-column>
+</mj-section>
+
+<mj-section padding-bottom="40px" background-color="#003b70">
+  <mj-column width="100%">
+    <mj-text align="center" color="#FFFFFF" font-size="20px">
+      One More Step!
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text align="center" color="#FFFFFF" font-size="14px">
+      Create your online account for access to your points and rewards.
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-button
+      href="https://www.skechers.com/complete-account/"
+      text-transform="uppercase"
+      background-color="#228d93"
+      font-size="15px"
+    >
+      create account
+    </mj-button>
+  </mj-column>
+</mj-section>
+<mj-raw>
+  <!-- End Create Account Section -->
+</mj-raw>
